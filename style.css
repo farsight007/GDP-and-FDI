@@ -1,26 +1,17 @@
-.i-phone-13-14-1,
-.i-phone-13-14-1 * {
+.f-2,
+.f-2 * {
   box-sizing: border-box;
-}
-.i-phone-13-14-1 {
-  background: #ffffff;
-  height: 874px;
-  position: relative;
-  overflow: hidden;
 }
 .f-2 {
   background: #ffffff;
-  padding: 0px 133.57px 0px 131.54px;
+  padding: 0px 221.27px 0px 217.91px;
   display: flex;
   flex-direction: row;
-  gap: 5.06px;
+  gap: 8.38px;
   align-items: flex-start;
   justify-content: center;
-  width: 392px;
-  height: 874px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
+  height: 767px;
+  position: relative;
   overflow: hidden;
 }
 .frame-5 {
@@ -31,28 +22,28 @@
     rgba(249, 237, 237, 1) 75.3581702709198%
   );
   flex-shrink: 0;
-  width: 396px;
-  height: 874px;
+  width: 657px;
+  height: 805px;
   position: relative;
   overflow: hidden;
 }
 .logo-1 {
-  width: 106.25px;
-  height: 28.86px;
+  width: 176.01px;
+  height: 47.8px;
   position: absolute;
-  left: 279.62px;
-  top: 4.81px;
+  left: 463.21px;
+  top: 7.97px;
   object-fit: cover;
 }
 .join-india-s-growth-story {
   color: #000000;
   text-align: left;
   font-family: "Roboto-SemiBold", sans-serif;
-  font-size: 7.870053768157959px;
+  font-size: 13.037431716918945px;
   font-weight: 600;
   position: absolute;
-  left: 21.42px;
-  top: 17.71px;
+  left: 35.49px;
+  top: 29.33px;
 }
 .frame-6 {
   background: linear-gradient(
@@ -60,56 +51,56 @@
     rgba(255, 255, 255, 1) 35.50518453121185%,
     rgba(245, 133, 52, 1) 100%
   );
-  padding: 12.68px 119.36px 12.68px 119.36px;
-  height: 45.88px;
+  padding: 21px 197.73px 21px 197.73px;
+  height: 76px;
   position: absolute;
-  right: 0.3px;
-  left: 4.93557071685791px;
-  top: 38.03px;
-  box-shadow: 0px 1.75px 1.75px -1.31px rgba(0, 0, 0, 0.25);
+  right: -0.18px;
+  left:0px;
+  top: 63px;
+  box-shadow: 0px 2.9px 2.9px -2.17px rgba(0, 0, 0, 0.25);
   overflow: hidden;
 }
 .invest-in-india-invest-with-farsight {
   color: #e04f25;
   text-align: left;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 17.4890079498291px;
+  font-size: 28.972070693969727px;
   font-weight: 400;
   position: absolute;
-  left: 33.88px;
-  top: 12.68px;
+  left: 56.13px;
+  top: 21px;
 }
 .frame-7 {
   background: rgba(255, 255, 255, 0);
-  padding: 6.56px 0px 6.56px 8.74px;
+  padding: 10.86px 0px 10.86px 14.49px;
   display: flex;
   flex-direction: column;
-  gap: 1.75px;
+  gap: 2.9px;
   align-items: center;
   justify-content: flex-start;
   position: absolute;
-  right: 11.16px;
-  left: 22.44151496887207px;
-  top: 102.62px;
+  right: 17.82px;
+  left: 37.17626953125px;
+  top: 170px;
   overflow: hidden;
 }
 .why-invest-in-india {
   color: #000000;
   text-align: center;
   font-family: "NotoLoopedThaiUi-SemiBold", sans-serif;
-  font-size: 15.740107536315918px;
-  line-height: 16.79px;
+  font-size: 26.07486343383789px;
+  line-height: 45px;
   font-weight: 600;
   position: relative;
   align-self: stretch;
-  height: 28.42px;
+  height: 47.08px;
 }
 .at-farsight-we-have-identified-several-investment-opportunities-in-india-that-we-believe-will-provide-our-clients-with-attractive-returns-these-include {
   color: #000000;
   text-align: left;
   font-family: "Mulish-Bold", sans-serif;
-  font-size: 9.618955612182617px;
-  line-height: 16.79px;
+  font-size: 15.934639930725098px;
+  line-height: 27.81px;
   font-weight: 700;
   position: relative;
   align-self: stretch;
@@ -117,95 +108,98 @@
 .frame-4 {
   display: flex;
   flex-direction: row;
-  gap: 4.37px;
+  gap: 7.24px;
   align-items: flex-start;
   justify-content: flex-start;
   position: absolute;
-  right: 10.92px;
-  left: 21.205263137817383px;
-  top: 92.25px;
+  right: 17.43px;
+  left: 35.1285400390625px;
+  top: 152.83px;
 }
 .contact-us-1 {
   flex-shrink: 0;
-  width: 161.77px;
-  height: 19.24px;
+  width: 267.99px;
+  height: 31.87px;
   position: relative;
 }
-.contactus-farsightshares-com {
+
+.contactus-farsightshares-com a {
+  
   color: #e04f25;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
-  font-size: 10.493406295776367px;
+  font-size: 17.383243560791016px;
   font-weight: 400;
   position: absolute;
-  right: 11.6%;
+  right: 11.94%;
   left: 0%;
-  width: 88.4%;
-  bottom: 32.43%;
+  width: 88.06%;
+  bottom: 34.11%;
   top: 0%;
-  height: 67.57%;
+  height: 65.89%;
 }
 .contact-us-2 {
   flex-shrink: 0;
-  width: 132.04px;
-  height: 19.24px;
+  width: 218.74px;
+  height: 31.87px;
   position: relative;
 }
-.www-farsightshares-com {
+.www-farsightshares-com a{
+  text-decoration: none;
   color: #e04f25;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
-  font-size: 10.493406295776367px;
+  font-size: 17.383243560791016px;
   font-weight: 400;
   position: absolute;
-  right: 6.85%;
+  right: 7.2%;
   left: 0%;
-  width: 93.15%;
-  bottom: 32.43%;
+  width: 92.8%;
+  bottom: 34.11%;
   top: 0%;
-  height: 67.57%;
+  height: 65.89%;
 }
 .contact-us-3 {
   flex-shrink: 0;
-  width: 67.33px;
-  height: 19.24px;
+  width: 111.54px;
+  height: 31.87px;
   position: relative;
 }
 ._9311522003 {
   color: #e04f25;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
-  font-size: 10.493406295776367px;
+  font-size: 17.383243560791016px;
   font-weight: 400;
   position: absolute;
-  right: 7.92%;
+  right: 7.66%;
   left: 0%;
-  width: 92.08%;
-  bottom: 32.43%;
+  width: 92.34%;
+  bottom: 34.11%;
   top: 0%;
-  height: 67.57%;
+  height: 65.89%;
 }
 .frame-31 {
-  padding: 10.93px 3.94px 10.93px 6.56px;
+  padding: 18.11px 6.52px 18.11px 10.86px;
   display: flex;
   flex-direction: column;
   gap: 8px;
   align-items: center;
   justify-content: flex-start;
-  width: 368px;
-  height: 531px;
+  width: 610px;
+  height: 294px;
   position: absolute;
-  left: 14.01px;
-  top: 171px;
-  overflow-y: auto;
+  left: 23.18px;
+  top: 283px;
+  overflow-y: hidden;
 }
 .frame-40 {
   background: #f58534;
-  border-radius: 5.43px;
-  padding: 3.02px 129.18px 3.02px 129.18px;
+  border-radius: 9px;
+  padding: 5px 214px 5px 214px;
   display: flex;
   flex-direction: row;
-  gap: 27.77px;
+  gap: 46px;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
@@ -215,8 +209,8 @@
   color: #fff6f6;
   text-align: center;
   font-family: "Arimo-Bold", sans-serif;
-  font-size: 10.493406295776367px;
-  line-height: 16.79px;
+  font-size: 17.383243560791016px;
+  line-height: 27.81px;
   font-weight: 700;
   position: relative;
   display: flex;
@@ -225,19 +219,18 @@
 }
 .frame-20 {
   background: #ffffff;
-  border-radius: 5.68px;
+  border-radius: 9.42px;
   border-style: solid;
   border-color: rgba(0, 0, 0, 0.74);
-  border-width: 1.31px;
-  padding: 3px 2.19px 8.31px 10.93px;
+  border-width: 2.17px;
+  padding: 13.76px 3.62px 13.76px 18.11px;
   display: flex;
   flex-direction: row;
-  gap: 4.37px;
+  gap: 7.24px;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  width: 333px;
-  height: 335px;
+  width: 583.79px;
   position: relative;
   overflow: hidden;
 }
@@ -245,164 +238,162 @@
   color: #000000;
   text-align: left;
   font-family: "Commissioner-Regular", sans-serif;
-  font-size: 12px;
-  line-height: 26px;
+  font-size: 14.486035346984863px;
+  line-height: 27.81px;
   font-weight: 400;
-  position: absolute;
-  left: 11.19px;
-  top: 15.03px;
-  width: 310px;
-  height: 338px;
-}
-.frame-16 {
-  background: #ffd8d8;
-  padding: 0px 6.56px 0px 6.56px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-end;
-  width: 395px;
-  height: 57px;
-  position: absolute;
-  left: calc(50% - 196.99px);
-  top: 636px;
-  box-shadow: 0px 0px 0.87px 0px rgba(0, 0, 0, 0.07);
-  overflow: hidden;
-}
-.frame-18 {
-  display: flex;
-  flex-direction: row;
-  gap: 3.06px;
-  align-items: center;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  position: absolute;
-  left: 273.7px;
-  top: 18.36px;
-}
-.pngwing-com-1 {
-  flex-shrink: 0;
-  width: 20.11px;
-  height: 15.74px;
   position: relative;
-  object-fit: cover;
-}
-.pngwing-com-1-1 {
-  flex-shrink: 0;
-  width: 13.99px;
-  height: 13.99px;
-  position: relative;
-  object-fit: cover;
-}
-.pngwing-com-2-1 {
-  flex-shrink: 0;
-  width: 13.12px;
-  height: 12.24px;
-  position: relative;
-  object-fit: cover;
-}
-.pngwing-com-3-1 {
-  flex-shrink: 0;
-  width: 13.99px;
-  height: 13.99px;
-  position: relative;
-  object-fit: cover;
-}
-.pngwing-com-4-1 {
-  flex-shrink: 0;
-  width: 15.74px;
-  height: 15.74px;
-  position: relative;
-  object-fit: cover;
-}
-.image-1 {
-  margin: -1.75px 0 0 0;
-  flex-shrink: 0;
-  width: 136.41px;
-  height: 28.42px;
-  position: relative;
-  object-fit: cover;
-}
-.copyright-2023-farsight-group-all-rights-reserved {
-  margin: -1.75px 0 0 0;
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Bold", sans-serif;
-  font-size: 6.121153354644775px;
-  line-height: 20.81px;
-  font-weight: var(--font-weight-700, 700);
-  position: relative;
+  flex: 1;
 }
 .frame-2 {
-  padding: 1.31px 0px 1.31px 0px;
-  height: 65.15px;
+  padding: 2.17px 0px 2.17px 0px;
+  height: 107.92px;
   position: absolute;
-  right: 1.18px;
-  left: 27.011962890625px;
-  bottom: 242.85px;
+  right: 8.01px;
+  left: 38.02587890625px;
+  bottom: 109.77px;
   overflow: hidden;
 }
 .how-to-get-started {
   color: #000000;
   text-align: left;
   font-family: "Roboto-Medium", sans-serif;
-  font-size: 10.493406295776367px;
+  font-size: 17.383243560791016px;
   font-weight: 500;
   position: absolute;
-  right: 207.24px;
+  right: 343.32px;
   left: 0px;
   top: 0px;
-  height: 25.36px;
+  height: 42.01px;
 }
 .feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations {
   text-align: left;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 7.870053768157959px;
+  font-size: 13.037431716918945px;
   font-weight: 400;
   position: absolute;
   right: 0px;
-  left: 0.8744648098945618px;
-  top: 14.43px;
-  height: 22.74px;
+  left: 1.448499321937561px;
+  top: 23.9px;
+  height: 37.66px;
 }
 .feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span {
   color: #000000;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 7.870053768157959px;
+  font-size: 13.037431716918945px;
   font-weight: 400;
 }
 .feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span2 {
   color: #0099ff;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 7.870053768157959px;
+  font-size: 13.037431716918945px;
   font-weight: 400;
 }
 .feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span3 {
   color: #000000;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 7.870053768157959px;
+  font-size: 13.037431716918945px;
   font-weight: 400;
 }
-.feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span4 {
+.farsight_anchor a{
+  text-decoration: none;
   color: #0099ff;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 7.870053768157959px;
+  font-size: 13.037431716918945px;
   font-weight: 400;
 }
 .feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span5 {
   color: #000000;
   font-family: "Roboto-Regular", sans-serif;
-  font-size: 7.870053768157959px;
+  font-size: 13.037431716918945px;
   font-weight: 400;
 }
 .farsight-group {
   color: #323232;
   text-align: left;
   font-family: "RobotoSlab-Regular", sans-serif;
-  font-size: 10.493406295776367px;
+  font-size: 17.383243560791016px;
   font-weight: 400;
   position: absolute;
-  left: 126.35px;
-  top: 37.24px;
-  width: 104.43px;
+  left: 209.31px;
+  top: 61.69px;
+  width: 173px;
+}
+.frame-16 {
+  background: #ffd8d8;
+  padding: 0px 10.86px 0px 10.86px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  width: 654px;
+  height: 81px;
+  position: absolute;
+  left: calc(50% - 326.16px);
+  top: 686px;
+  box-shadow: 0px 0px 1.45px 0px rgba(0, 0, 0, 0.07);
+  overflow: hidden;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.07px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 453.41px;
+  top: 30.42px;
+}
+.pngwing-com-1 {
+  flex-shrink: 0;
+  width: 33.32px;
+  height: 26.07px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwing-com-1-1 {
+  flex-shrink: 0;
+  width: 23.18px;
+  height: 23.18px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwing-com-2-1 {
+  flex-shrink: 0;
+  width: 21.73px;
+  height: 20.28px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwing-com-3-1 {
+  flex-shrink: 0;
+  width: 23.18px;
+  height: 23.18px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwing-com-4-1 {
+  flex-shrink: 0;
+  width: 26.07px;
+  height: 26.07px;
+  position: relative;
+  object-fit: cover;
+}
+.image-1 {
+  margin: -2.9px 0 0 0;
+  flex-shrink: 0;
+  width: 225.98px;
+  height: 47.08px;
+  position: relative;
+  object-fit: cover;
+}
+.copyright-2023-farsight-group-all-rights-reserved {
+  margin: -2.9px 0 0 0;
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 10.140225410461426px;
+  line-height: 34.48px;
+  font-weight: var(--font-weight-700, 700);
+  position: relative;
 }
